@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my Page!
 
-You can use the [editor on GitHub](https://github.com/ShalmaleeVishwasrao/bio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I made this page because I thought to myself "What kind of a software engineer am I if I dont have my own webpage?". After several incomplete attempts, I have finally decided to take this seriously!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So here goes!
 
-### Markdown
+![Image](C:\Users\shalm\Pictures\Me - spot coffee.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am Shalmalee Vishwasrao, a **Software Engineer** by profession. I am working in the field of Identity and Access Management with Deloitte. 
 
-```markdown
-Syntax highlighted code block
+I enjoy art and craft and absolutely love DIY. But this is a professional page, so ..!
 
-# Header 1
-## Header 2
-### Header 3
+I did my Master's in Computer Science from **SUNY, University at Buffalo**. Check out my projects below!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
++ #### The Social Sentiment
 
-**Bold** and _Italic_ and `Code` text
++ #### Simple Dynamo
 
-[Link](url) and ![Image](src)
-```
++ #### Classroom Scheduling Analysis
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ #### Twitter Search Engine
 
-### Jekyll Themes
++ #### Restaurant Ordering System
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShalmaleeVishwasrao/bio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am always on the look out for new and exciting opportunites. I can be reached anytime by [email](shalmalee.vishwasrao@gmail.com).
